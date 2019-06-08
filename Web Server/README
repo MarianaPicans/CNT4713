@@ -1,0 +1,8 @@
+To run the web server go to your terminal and into the root folder, then type the following command:
+
+python3 -m http.server 8080
+
+The server should be running!
+
+When the server is running go to your browser and type localhost:8080 and you will be able to see a page with
+a video and an audio. You will be able to play both the video and audio
