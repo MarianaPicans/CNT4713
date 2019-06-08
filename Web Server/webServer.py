@@ -1,3 +1,6 @@
+# Sources: 
+#Professor Balmaceda's Zoom meeting 
+#https://www.freeformatter.com/mime-types-list.html
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from os import curdir, sep
 
